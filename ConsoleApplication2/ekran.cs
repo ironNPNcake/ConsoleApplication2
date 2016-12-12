@@ -208,7 +208,7 @@ namespace ConsoleApplication2
 
         public void drawMap(Image map)
         {
-            for(int i =0;i<)
+            //for(int i =0;i<)
         }
     }
 }
