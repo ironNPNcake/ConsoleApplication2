@@ -1,0 +1,8 @@
+H:\Projekty\C++\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+H:\Projekty\C++\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+H:\Projekty\C++\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+H:\Projekty\C++\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+H:\Projekty\C++\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+H:\Projekty\C++\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+H:\Projekty\C++\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.GenerateResource.Cache
+H:\Projekty\C++\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.fightFrame.resources
