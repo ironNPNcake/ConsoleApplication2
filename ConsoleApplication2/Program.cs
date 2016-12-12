@@ -25,7 +25,7 @@ namespace ConsoleApplication2
 
             Console.BackgroundColor = ConsoleColor.White;
             Console.ForegroundColor = ConsoleColor.Black;
-
+            //pierwszy koment
 
 
             fightFrame a = new fightFrame();
